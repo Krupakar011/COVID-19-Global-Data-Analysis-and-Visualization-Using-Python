@@ -1,6 +1,9 @@
 # 📌 Covid-19 Data Analysis Project
 
 This project provides a complete exploratory analysis of global Covid-19 data using Python, Pandas, and visualization libraries. It focuses on understanding country-wise pandemic impact through trends in recovery, death, and active case counts.
+https://github.com/Krupakar011/COVID-19-Global-Data-Analysis-and-Visualization-Using-Python/blob/main/Thumbnail.png
+
+
 
 🚀 Project Objectives
 Load and explore the Covid-19 dataset
