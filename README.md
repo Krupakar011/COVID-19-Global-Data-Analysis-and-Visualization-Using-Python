@@ -31,3 +31,5 @@ Recovered
 Deaths
 Active cases
 Visual graphs for all above metrics
+
+
